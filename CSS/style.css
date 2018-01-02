@@ -1,0 +1,113 @@
+p {
+  font-size: 18px;
+}
+
+h1 {
+  font-family: 'Bevan', cursive;
+  font-size: 65px;
+  color: #fff;
+}
+
+h2 {
+  font-family: 'Bevan', cursive;
+  font-size: 33px;
+  color: #fff;
+}
+
+h3 {
+  font-family: 'Bevan', cursive;
+  font-size: 28px;
+  color: #4B2E83;
+}
+.content {
+  padding-top: 35px;
+}
+
+.home-header {
+  text-align: center;
+}
+
+.homeh1 {
+  margin-top: 200px;
+}
+
+.home-social {
+  margin-top: 50px;
+}
+
+.btn-lg {
+  background-color: #4B2E83;
+  border: 0px;
+}
+
+.btn-lg:hover {
+  background-color: #b7a57a;
+}
+
+.about-me {
+  background-color: rgba(221,221,221, .8);
+}
+
+.contact-form {
+  background-color: rgba(221,221,221, .8);
+}
+
+.navbar {
+  background-color: rgba(75, 46, 131, .9);
+  border-width: 0 0 0px;
+}
+
+.navbar-default .navbar-brand {
+  color: white;
+  font-family: 'Covered By Your Grace', cursive;
+  font-size: 40px;
+}
+
+.navbar-default .navbar-brand:hover {
+  background-color: #b7a57a;
+  color: white;
+}
+
+.navbar-default .navbar-nav>li>a {
+  color: white;
+  font-size: 18px;
+}
+
+.navbar-default .navbar-nav>li>a:hover {
+  background-color: #b7a57a;
+  color: white;
+}
+
+.page-header {
+   background-color: #4B2E83;
+   height: 100px;
+   text-align: center;
+   color: white;
+   margin-bottom: 0px;
+   margin-top: 0px;
+   border-bottom: 0px;
+}
+
+.home-content {
+  background: url('https://40.media.tumblr.com/e9216b52b405665016339d4360da4471/tumblr_nuu72p4BjB1qe4epso1_1280.jpg') no-repeat center center fixed;
+  height: 700px;
+  background-size: cover;
+}
+
+.about-content {
+  background: url('https://36.media.tumblr.com/9b75ff4164687909895393cb89d75ddc/tumblr_nuuefaPDRU1qe4epso1_1280.jpg') no-repeat center center fixed;
+  height: 800px;
+  background-size: cover;
+}
+
+.portfolio-content {
+  background: url('https://40.media.tumblr.com/ca1beb6553fe4c897742a02de1a3750c/tumblr_nuueszN2RK1qe4epso1_1280.jpg') no-repeat center center fixed;
+  height: 800px;
+  background-size: cover;
+}
+
+.contact-content {
+  background: url('https://40.media.tumblr.com/72a4eaf9e62e961476ef63b4a686aeb4/tumblr_nuuf0sjJjd1qe4epso1_1280.jpg') no-repeat center center fixed;
+  height: 650px;
+  background-size: cover;
+}
